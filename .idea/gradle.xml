@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Numeric Matrix Processor/task" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Average" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Deposit" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Round and power" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Rounding with a given precision" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data class/equals() check" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Fix the code" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/RuntimeException" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Cart" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/House inheritance" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Elvis throwing exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Date and time formatting" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Print two numbers on the same line" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Repetitions and templates" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Handle arithmetic exception" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Handle number format exception" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Handle string exception" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Handling strings" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Handling strings (1)" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Integer division" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Parting words" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/The Answer is" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Type system/Reverse me if you can" />
+            <option value="$PROJECT_DIR$/Topics/Type system/String or Int" />
+            <option value="$PROJECT_DIR$/Topics/Type system/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Latte" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Tea" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/User Information" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

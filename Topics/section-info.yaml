@@ -1,0 +1,12 @@
+content:
+- Hierarchy of exceptions
+- Taming exceptions
+- Inheritance
+- The try-catch statement
+- The try-catch-finally statement
+- Null safety
+- Type system
+- BigDecimal
+- toString()
+- Data class
+- String templates

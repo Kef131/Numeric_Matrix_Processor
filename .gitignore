@@ -1,0 +1,47 @@
+# Project exclude paths
+/.gradle/
+/Numeric Matrix Processor/task/build/
+/Numeric Matrix Processor/task/out/
+/Numeric Matrix Processor/task/out/production/classes/
+/Numeric Matrix Processor/task/out/test/classes/
+/Topics/BigDecimal/Round and power/out/
+/Topics/BigDecimal/Round and power/out/production/classes/
+/Topics/BigDecimal/Theory/out/
+/Topics/BigDecimal/Theory/out/production/classes/
+/Topics/Data class/equals() check/out/
+/Topics/Data class/equals() check/out/production/classes/
+/Topics/Data class/Theory/build/
+/Topics/Data class/Theory/out/
+/Topics/Data class/Theory/out/production/classes/
+/Topics/Inheritance/Cart/out/
+/Topics/Inheritance/Cart/out/production/classes/
+/Topics/Inheritance/House inheritance/out/
+/Topics/Inheritance/House inheritance/out/production/classes/
+/Topics/Null safety/Elvis throwing exceptions/out/
+/Topics/Null safety/Elvis throwing exceptions/out/production/classes/
+/Topics/Null safety/Theory/out/
+/Topics/Null safety/Theory/out/production/classes/
+/Topics/String templates/Repetitions and templates/out/
+/Topics/String templates/Repetitions and templates/out/production/classes/
+/Topics/Taming exceptions/Handle arithmetic exception/out/
+/Topics/Taming exceptions/Handle arithmetic exception/out/production/classes/
+/Topics/Taming exceptions/Handle number format exception/out/
+/Topics/Taming exceptions/Handle number format exception/out/production/classes/
+/Topics/The try-catch statement/Handling strings (1)/out/
+/Topics/The try-catch statement/Handling strings (1)/out/production/classes/
+/Topics/The try-catch statement/Integer division/out/
+/Topics/The try-catch statement/Integer division/out/production/classes/
+/Topics/The try-catch-finally statement/Parting words/out/
+/Topics/The try-catch-finally statement/Parting words/out/production/classes/
+/Topics/The try-catch-finally statement/The Answer is/out/
+/Topics/The try-catch-finally statement/The Answer is/out/production/classes/
+/Topics/The try-catch-finally statement/Theory/out/
+/Topics/The try-catch-finally statement/Theory/out/production/classes/
+/Topics/toString()/Tea/out/
+/Topics/toString()/Tea/out/production/classes/
+/Topics/Type system/Reverse me if you can/out/
+/Topics/Type system/Reverse me if you can/out/production/classes/
+/Topics/Type system/String or Int/out/
+/Topics/Type system/String or Int/out/production/classes/
+/Topics/Type system/Theory/out/
+/Topics/Type system/Theory/out/production/classes/

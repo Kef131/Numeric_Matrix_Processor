@@ -1,0 +1,16 @@
+type: code
+custom_name: Handling strings
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun printFifthCharacter(input: String): String {
+        return "The fifth character of the entered word is ${input[4]}"
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10626#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 02 Aug 2021 12:21:25 UTC
+record: -1
